@@ -1,3 +1,5 @@
-# README
+cd Your App
 
-`@umijs/max` 模板项目，更多功能参考 [Umi Max 简介](https://umijs.org/docs/max/introduce)
+```bash
+npx degit https://github.com/AmAzing129/try-degit/src/ui/Button\$hash ui/Button\$hash
+```
